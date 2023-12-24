@@ -43,6 +43,6 @@ namespace ArdalisRating.Tests
             var result = engine.Rating;
 
             Assert.Equal(0, result);
-        }
+        }        
     }
 }
